@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+
+div {
+    height: 200px;
+    width: 600px;
+    margin: 50px auto;
+    border: 2px solid black;
+} 
+
+button {
+    padding: 10px;
+    border: none;
+    border-radius: 16px;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: 500;
+    color:white;
+    background-color:black
+
+}
+h2 {
+    color:blue;
+    font-style: italic;
+
+}
