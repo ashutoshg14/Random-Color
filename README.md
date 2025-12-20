@@ -22,4 +22,7 @@ Simple and beginner-friendly UI
 
  2.CSS – For styling
 
- 3.JavaScript – For logic and DOM manipulation
+ 3.JavaScript – For logic and DOM manipulation 
+
+ # Live Project
+ https://rawcdn.githack.com/ashutoshg14/Random-Color/c922233fea86028304a2d1d1b65d48f96d096436/index.html
